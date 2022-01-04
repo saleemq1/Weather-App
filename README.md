@@ -3,7 +3,7 @@
 ---
 
 <div>
-<b>MetaWeather API</b> |
+<b>MetaWeather API</b> :
 <a href="https://www.metaweather.com/api" target="_blank" rel="noopener noreferrer"
     style="padding:0.35rem 0.7rem;
     color: black;
