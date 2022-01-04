@@ -1,4 +1,4 @@
-# Weather API - ReactJS Version
+# Weather App
 
 ---
 
