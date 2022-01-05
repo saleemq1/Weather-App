@@ -18,7 +18,7 @@
 ## Description
 
 <p>A weather app using javascript and ReactJS hooks, async/await as well as AXIOS and CSS modules.</p>
-<p>A fully functioning web application that provides extensive weather forecast information for any city</p>
+<p>A fully functioning web application that provides extensive weather forecast information for any city.</p>
 
 ## Preview
 
